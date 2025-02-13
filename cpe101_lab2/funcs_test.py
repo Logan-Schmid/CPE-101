@@ -4,9 +4,9 @@ https://docs.python.org/3/library/unittest.html#unittest.TestCase.debug
 """
 
 import unittest
-import funcs
+from cpe101_lab2 import funcs
 
-from unittest.mock import patch  # used to test when there are factors out of your code's control like a bad API request due to the server
+
 # would use patch as a context manager, and then recreate the correct response from the API
 
 class TestFuncs(unittest.TestCase):
@@ -58,7 +58,7 @@ class TestFuncs(unittest.TestCase):
         self.assertAlmostEqual(funcs.g(3, 10), 12.1111111111111)
 
     def test_g3(self):
-        self.assertAlmostEqual(funcs.g(-2, -4), -10/3)
+        self.assertAlmostEqual(funcs.g(-2, -4), -10 / 3)
 
     def test_g4(self):
         self.assertAlmostEqual(funcs.g(-5, 2), -1.933333333333)
