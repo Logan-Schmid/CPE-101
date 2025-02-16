@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a518539-3dba-41c7-9378-a10d76edcc8d" name="Changes" comment="Amended">
-      <change afterPath="$PROJECT_DIR$/cpe101_lab5/filter_funcs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpe101_lab5/filter_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpe101_lab5/map_funcs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpe101_lab5/map_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpe101_lab5/poly.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpe101_lab5/poly_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpe101_lab6/char_funcs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpe101_lab6/char_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpe101_lab6/fold_funcs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpe101_lab6/fold_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpe101_lab6/string_funcs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpe101_lab6/string_tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,41 +51,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in conditional_tests.py.executor": "Run",
-    "Python tests.Python tests in filter_tests.py.executor": "Run",
-    "Python tests.Python tests in funcs_test.py.executor": "Run",
-    "Python tests.Python tests in logic_tests.py.executor": "Run",
-    "Python tests.Python tests in map_tests.py.executor": "Run",
-    "Python tests.Python tests in poly_tests.py.executor": "Run",
-    "Python.lab2.executor": "Run",
-    "Python.planets.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/loganschmid/PycharmProjects/csc101_schmid",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in char_tests.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in conditional_tests.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in filter_tests.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in fold_tests.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in funcs_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in logic_tests.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in map_tests.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in poly_tests.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in string_tests.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.planets.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/loganschmid/PycharmProjects/csc101_schmid&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/cpe101_lab2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in filter_tests.py">
-    <configuration name="Python tests in conditional_tests.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests in string_tests.py">
+    <configuration name="Python tests in char_tests.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="csc101_schmid" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cpe101_lab3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cpe101_lab6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/cpe101_lab3/conditional_tests.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/cpe101_lab6/char_tests.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -104,18 +107,18 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in logic_tests.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in fold_tests.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="csc101_schmid" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cpe101_lab3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cpe101_lab6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/cpe101_lab3/logic_tests.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/cpe101_lab6/fold_tests.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -134,35 +137,35 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in poly_tests.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in string_tests.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="csc101_schmid" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cpe101_lab5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cpe101_lab6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/cpe101_lab5/poly_tests.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/cpe101_lab6/string_tests.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in string_tests.py" />
+        <item itemvalue="Python tests.Python tests in char_tests.py" />
+        <item itemvalue="Python tests.Python tests in fold_tests.py" />
         <item itemvalue="Python tests.Python tests in filter_tests.py" />
         <item itemvalue="Python tests.Python tests in map_tests.py" />
-        <item itemvalue="Python tests.Python tests in poly_tests.py" />
-        <item itemvalue="Python tests.Python tests in conditional_tests.py" />
-        <item itemvalue="Python tests.Python tests in logic_tests.py" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
+        <option value="bundled-python-sdk-fc1d50d2d915-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.24978.54" />
       </set>
     </attachedChunks>
   </component>
@@ -215,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739427010776</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Amended">
+      <option name="closed" value="true" />
+      <created>1739668418215</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739668418215</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
